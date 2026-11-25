@@ -47,3 +47,7 @@ git clone https://github.com/k0t1kk-0/taskboard.git
 ## Скріншот
 
 ![Головна сторінка](images/screenshot.png)
+
+## Демо
+
+[Відкрити сайт](https://k0t1kk-0.github.io/taskboard/)
